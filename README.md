@@ -1,6 +1,6 @@
 # MigrationLogAnalyzer
 
-1, Set the pagination in the logs page to 1000
+1, Set the pagination in the logs page to 1000 &nbsp
 2, Copy the script in perfReport.js and paste in console (it will automatically copy the data and store it in clipboard)
 3, Open a csv file and paste it from clipboard
 4, Check the file name correctly referred in app.js
