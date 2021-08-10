@@ -1,3 +1,6 @@
+This tool helps to plan downtime required to migrate from On Premise to Cloud Service Desk Plus (OP2OD)
+
+
 # MigrationLogAnalyzer
 
 1, Set the pagination in the logs page to 1000
